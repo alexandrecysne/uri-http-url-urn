@@ -13,7 +13,7 @@
 
 Vai aparecer algo igual a isso:
 
-img
+<img src="img/headers-cysne-eti-br.png">
 
 * Você vai conseguir identificar o endereço remoto (162.214.155.186:443), a URL que foi requisitada, o método que foi utilizado (GET), o Status Code (200 - OK) e mais diversas outras informações, incluindo os cabeçalhos da resposta (Response Headers).
 
